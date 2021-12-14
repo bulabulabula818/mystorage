@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main()
+{
+  printf("HELLO WORD!");
+  printf("HAPPY TO MEET NEW BODY HERE! SMILING ^-^ !");
+}
